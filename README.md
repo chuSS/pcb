@@ -1,6 +1,6 @@
 # pcb
 
-```
+
 sequenceDiagram
     participant Alice
     participant Bob
@@ -13,7 +13,7 @@ sequenceDiagram
     John->>Bob: How about you?
     Bob-->>John: Jolly good!
 
-```
+
 stateDiagram
     [*] --> Active
 
